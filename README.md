@@ -1,2 +1,1 @@
-#Calculadora Imc
 O projeto "Calculadora Imc" foi feito com a finalidade de ajudar as  mais saudávelprocurar um especialista para acompanhamento. É recomendável também para as pessoas que estão começando a fazer atividade física ou começando aa saúde, sendo assim,  fazer dieta, para ter um melhor direcionamento! É muito importante que pelo menos uma vez por ano, todos façam ou  esse cálculo, para ter uma noção de como anda sua saúdepessoas a se cuidar um pouco mais e ficar de olho em supodendo até mesmo se alertar para uma alimentação
